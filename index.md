@@ -9,7 +9,7 @@
   <body>
     <!-- Accent-colored raised button with ripple -->
     <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
-      Button
+      My Scratch Page
     </button>
     <!-- Colored FAB button -->
     <button class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored">
